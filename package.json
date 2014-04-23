@@ -1,0 +1,30 @@
+{
+  "name": "grunt-phps",
+  "version": "0.1.0",
+  "description": "Run php built-in server on grunt",
+  "main": "tasks/phps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mach3 <http://github.com/mach3>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mach3/grunt-phps.git"
+  },
+  "keywords": [
+    "grunt",
+    "php",
+    "server"
+  ],
+  "bugs": {
+    "url": "https://github.com/mach3/grunt-phps/issues"
+  },
+  "homepage": "https://github.com/mach3/grunt-phps"
+}
