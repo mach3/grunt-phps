@@ -35,7 +35,7 @@ grunt.initConfig({
 When you use this with **grunt-contrib-watch** or something async, keepalive should be FALSE
 (as grunt-contrib-connect is so).
 
-```
+```javascript
 grunt.initConfig({
     watch: {
         dev: { ... }
